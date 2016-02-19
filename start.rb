@@ -1,5 +1,5 @@
 #!/usr/bin/ruby
 
-puts "Starting..."
+puts "Starting...dddddd"
 
 puts "Finished loading 100%"
